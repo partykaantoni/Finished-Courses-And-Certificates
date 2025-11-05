@@ -16,6 +16,12 @@
 
 ![Certyfikat](certificates/PythonCudaNumba.PNG)
 
+### 2. Introduction to Transformer-Based Natural Language Processing  
+[Zobacz kurs](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-08+V1)  
+**Status:** W trakcie  
+**Data ukończenia:** brak  
+**Technologie:** Generative AI, LLM, Python
+
 ---
 
 ## Coursera
