@@ -28,6 +28,8 @@
 
 ### 1. Java Basics: Selection and Iteration
 [Zobacz kurs](https://www.coursera.org/learn/codio-java-basics)    
-**Status:** W trakcie  
-**Data ukończenia:** brak  
+**Status:** Ukończony
+**Data ukończenia:** 06.11.2025  
 **Tematy:** Java, Selection, Iteration
+
+![Certyfikat](certificates/JavaIter.png)
