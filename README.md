@@ -33,3 +33,11 @@
 **Tematy:** Java, Selection, Iteration
 
 ![Certyfikat](certificates/JavaIter.png)
+
+### 2. Python for Data Analysis: Pandas & NumPy
+[Zobacz kurs](https://www.coursera.org/projects/python-for-data-analysis-numpy)    
+**Status:** Ukończony 
+**Data ukończenia:** 11.11.2025  
+**Tematy:** Python, Pandas, Numpy
+
+![Certyfikat](certificates/numpyPandasCert.png)
